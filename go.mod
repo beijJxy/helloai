@@ -1,3 +1,3 @@
-module github.com/bestwishCT/helloai
+module github.com/beijJxy/helloai
 
 go 1.19
